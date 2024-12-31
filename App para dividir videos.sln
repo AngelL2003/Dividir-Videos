@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App para dividir videos", "App para dividir videos\App para dividir videos.csproj", "{B404C118-657C-49FB-BE54-2CDB7A75983C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B404C118-657C-49FB-BE54-2CDB7A75983C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B404C118-657C-49FB-BE54-2CDB7A75983C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B404C118-657C-49FB-BE54-2CDB7A75983C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B404C118-657C-49FB-BE54-2CDB7A75983C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {184189D3-D7ED-4374-9219-8A93FB7DDDB1}
+	EndGlobalSection
+EndGlobal

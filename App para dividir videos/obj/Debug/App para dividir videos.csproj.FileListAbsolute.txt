@@ -1,0 +1,7 @@
+C:\Users\lacar\source\repos\App para dividir videos\App para dividir videos\bin\Debug\App para dividir videos.exe.config
+C:\Users\lacar\source\repos\App para dividir videos\App para dividir videos\bin\Debug\App para dividir videos.exe
+C:\Users\lacar\source\repos\App para dividir videos\App para dividir videos\bin\Debug\App para dividir videos.pdb
+C:\Users\lacar\source\repos\App para dividir videos\App para dividir videos\obj\Debug\App para dividir videos.csproj.AssemblyReference.cache
+C:\Users\lacar\source\repos\App para dividir videos\App para dividir videos\obj\Debug\App para dividir videos.csproj.CoreCompileInputs.cache
+C:\Users\lacar\source\repos\App para dividir videos\App para dividir videos\obj\Debug\App para dividir videos.exe
+C:\Users\lacar\source\repos\App para dividir videos\App para dividir videos\obj\Debug\App para dividir videos.pdb
